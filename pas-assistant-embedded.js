@@ -1,1 +1,1 @@
-import "./embed-entry-B32DuDEN.js";
+import "./embed-entry-BnyKSLsB.js";
